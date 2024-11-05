@@ -62,7 +62,7 @@ OBI supports the following data types:
 For detailed documentation, please visit:
 
 - [Band Chain Documentation](https://docs.bandchain.org/)
-- [OBI Specification](https://docs.bandchain.org/technical-specifications/obi)
+- [OBI Specification](https://docs.bandchain.org/develop/developer-guides/obi)
 
 ## Contributing
 
